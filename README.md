@@ -5,7 +5,7 @@ This simplest Bash script gets average market price across major bitcoin exchang
 
 Available currencies: _USD_, _ISK_, _HKD_, _TWD_, _CHF_, _EUR_, _DKK_, _CLP_, _CAD_, _INR_, _CNY_, _THB_, _AUD_, _SGD_, _KRW_, _JPY_, _PLN_, _GBP_, _SEK_, _NZD_, _BRL_, _RUB_.
 
-##Using
+## Using
 
 There are 3 options:
 1. With no arguments (by default get price of 1 BTC in USD)
