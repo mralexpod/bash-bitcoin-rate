@@ -1,2 +1,2 @@
 # bash-coin-rates
-Getting cryptocurrency rates via CLI
+Getting Bitcoin rates via Blockchain.info API
