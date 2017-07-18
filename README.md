@@ -26,4 +26,3 @@ Result:
 
 All currencies are case-insensitive, you could use `EUR` as well as `eur`
 
-P.S. Do `chmod +x btc.sh` if you want to run the script without printing `"bash btc.sh"`
