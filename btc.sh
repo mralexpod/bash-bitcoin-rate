@@ -1,11 +1,5 @@
 #!/bin/bash
 
-## goal: make btc bash converter
-#'btc' with no args - print current price of 1 BTC for USD (default)
-#'btc rub' - print 1 BTC to RUB rate
-#'btc usd 500' convert $500 to BTC
-# Average USD market price across major bitcoin exchanges.
-
 
 ## This function determines which HTTP get tool the system has installed and returns an error if there isn't one
 getConfiguredClient()
